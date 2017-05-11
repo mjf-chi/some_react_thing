@@ -2,6 +2,8 @@
 
 ### Development
 
+All development should preferably be done on the dev branch and squashed merged with a PR for easier historical reference of changes
+
 $ npm install
 $ npm run build
 $ npm start
@@ -16,3 +18,4 @@ $ npm start
 then use
 $ ngrok http 8080
 to make port available over the interwebs
+
