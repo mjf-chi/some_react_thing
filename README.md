@@ -10,7 +10,7 @@ $ npm run build
 
 $ npm start
 
-### serving website for others too see
+### serving website for others to see
 
 Recommend using ngrok for opening secure connection to your port (https://ngrok.com)
 
